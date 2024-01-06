@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "badfmt"
-version = "1.0.0"
+version = "1.0.1"
 description = "A very bad formatter for any programming language with braces and semicolons (eg. c/c++/java/javascript/rust)"
 authors = ["infibrocco <infibrocco@github.com>"]
 license = "MIT"
