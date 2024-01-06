@@ -5,6 +5,11 @@ description = "A very bad formatter for any programming language with braces and
 authors = ["infibrocco <infibrocco@github.com>"]
 license = "MIT"
 readme = "README.md"
+repository = "https://github.com/infibrocco/badfmt"
+homepage = "https://github.com/infibrocco/badfmt"
+
+[tool.poetry.urls]
+"Bug Tracker" = "https://github.com/infibrocco/badfmt/issues"
 
 [tool.poetry.dependencies]
 python = "^3.8"
