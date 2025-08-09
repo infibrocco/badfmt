@@ -1,15 +1,15 @@
 [tool.poetry]
-name = "badfmt"
+name = "vertfmt"
 version = "1.0.1"
-description = "A very bad formatter for any programming language with braces and semicolons (eg. c/c++/java/javascript/rust)"
+description = "A vertical formatter for any programming language with braces and semicolons (eg. c/c++/java/javascript/rust)"
 authors = ["infibrocco <infibrocco@github.com>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/infibrocco/badfmt"
-homepage = "https://github.com/infibrocco/badfmt"
+repository = "https://github.com/infibrocco/vertfmt"
+homepage = "https://github.com/infibrocco/vertfmt"
 
 [tool.poetry.urls]
-"Bug Tracker" = "https://github.com/infibrocco/badfmt/issues"
+"Bug Tracker" = "https://github.com/infibrocco/vertfmt/issues"
 
 [tool.poetry.dependencies]
 python = "^3.8"
