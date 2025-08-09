@@ -11,7 +11,7 @@ A vertical formatter for any programming language with braces and semicolons (e.
 To install `vertfmt`, you need to have Python 3.8 or higher installed. You can then use `pip` to install the package:
 
 ```shell
-pip install pip install git+https://github.com/infibrocco/vertfmt.git
+pip install git+https://github.com/infibrocco/vertfmt.git
 ```
 
 ## Usage
