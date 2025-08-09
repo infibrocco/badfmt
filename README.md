@@ -4,7 +4,7 @@ A vertical formatter for any programming language with braces and semicolons (e.
 
 ## Description
 
-`vertfmt` is a command-line tool that attempts to format code files written in programming languages with braces and semicolons. It makes the code seem like it doesn't have any semicolons or braces but puts them at the very end of the line away from sight. It is designed to be a joke formatter and should not be used in production codebases.
+`vertfmt` is a command-line tool that formats code written in programming languages with braces and semicolons (e.g., c/c++/java/javascript/rust/...). It shifts all your semicolons and braces to the very end of the line away from sight. It is designed to be used in less serious codebases.
 
 ## Installation
 
